@@ -1,2 +1,2 @@
-# project1
+# Project1
 1st project for front-end application.
