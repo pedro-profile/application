@@ -1,1 +1,1 @@
-# Front-end Application <br> https://solutionsarray.github.io/project/
+1st project for front-end application | https://solutionsarray.github.io/project1/
