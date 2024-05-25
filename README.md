@@ -1,1 +1,1 @@
-# Application | https://solutionsarray.github.io/project/
+# Application - https://solutionsarray.github.io/project/
