@@ -1,24 +1,42 @@
+body {
+    backg round: #1b1b25e7;
+    text-align: center;
+}
 #banner {
 	text-align: center;
 }
 #keywords h1{
+	dis play: inline-block;
 	text-align: center;
 	color: #2b8699;
 	font-size: 100px;	
 	font-weight: 900;
 }
 #keywords h2{
+	dis play: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 100px;	
 }
 #keywords h3{
+	disp lay: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 50px;	
 }
 #keywords p{
+	dis play: inline-block;
 	text-align: center;
 	color: grey;
 	font-size: 30px;	
+}
+#scientist h1{
+	display: inline-block;
+	color: grey;
+	font-size: 90px;	
+}
+#scientist h3{
+	display: inline-block;
+	color: grey;
+	font-size: 60px;	
 }
