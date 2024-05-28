@@ -15,12 +15,12 @@ body {
 	color: grey;
 	font-size: 100px;	
 }
-#joined h1{
+.joined h1{
 	display: inline-block;
 	color: grey;
 	font-size: 70px;	
 }
-#joined h3{
+.joined h3{
 	display: inline-block;
 	color: grey;
 	font-size: 60px;	
