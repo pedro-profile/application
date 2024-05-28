@@ -1,2 +1,1 @@
-# 🚧 Project <br> <a href="https://solutionsarray.github.io//" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io//" target="_blank">https://solutionsarray.github.io//</a>
-This Repo contains <b>HTML/CSS/JS Starter Boilerplate</b> and <b>Resources</b>. 🔗 And links you to <b>Usable Sources 🕵️‍♂️</b>.
+# ️🌐 Application <br> <a href="https://solutionsarray.github.io/application/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/application/" target="_blank">https://solutionsarray.github.io/application/</a>
